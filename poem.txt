@@ -5,3 +5,7 @@ violet
 indigo
 blue etc
 making some more changes to see how this works
+wanted to add all colors
+greeen
+yellow
+orange
